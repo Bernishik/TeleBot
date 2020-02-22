@@ -1,5 +1,5 @@
-telebot.py
+telebot
 kurs.py
 pogoda.py
-requests.py
-bs4.py
+requests
+bs4
