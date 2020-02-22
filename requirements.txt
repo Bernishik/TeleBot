@@ -1,3 +1,4 @@
 telebot
 requests
 bs4
+pyTelegramBotAPI
