@@ -1,5 +1,3 @@
 telebot
-kurs.py
-pogoda.py
 requests
 bs4
